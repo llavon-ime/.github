@@ -60,4 +60,4 @@
 
 歡迎加入 Discord 與我們交流、回報問題或參與開發：
 
-**[加入 Llavon IME Discord](https://discord.gg/JCnFTW8K4P)**
+**[加入 Llavon IME Discord](https://discord.gg/ShMtdZGcmZ)**
